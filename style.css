@@ -1,0 +1,31 @@
+h1 {
+	background-color: rgb(100,100,200);
+}
+
+ul {
+	list-style-type: none;
+}
+
+.hidden {
+	background-color: rgb(150, 150, 200);
+}
+
+h1:hover {
+	background-color: rgb(190, 190, 220);
+}
+
+.task-done:before {
+	content: "\2713  ";
+}
+
+.task-todo:before {
+	content: "\2717  ";
+}
+
+.task-progress:before {
+	content: "\231B  ";
+}
+
+.note:before {
+	content: "-  ";
+}

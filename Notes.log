@@ -1,0 +1,16 @@
+#Project A
+- Task left to do
+- Other task left to do
++ This task is done! 
+/ A and B are working on this task 
+/ A is workign on this task
+
+#Project B
++ Integrate feature A
++ Integrate feature B
+- Integrate feature C
+
+
+#Appointments
+Dentist on the 1st of June
+Doctor on the 10th of July 
